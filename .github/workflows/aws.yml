@@ -42,7 +42,7 @@ env:
 
 permissions:
   contents: read
-
+[![Deploy to Amazon ECS](https://github.com/Fravinhos/G/actions/workflows/aws.yml/badge.svg?event=branch_protection_rule)](https://github.com/Fravinhos/G/actions/workflows/aws.yml)
 jobs:
   deploy:
     name: Deploy
